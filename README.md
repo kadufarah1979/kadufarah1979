@@ -4,6 +4,10 @@
 
 Trabalho com tecnologia desde 1998, entre infraestrutura, desenvolvimento e DevOps. Hoje sou Engenheiro de Infraestrutura Cloud na **Amazonas Inovare** e aplico inteligência artificial à operação e ao time de engenharia.
 
+### Open source
+
+- **[seguranca-agentes-ops](https://github.com/kadufarah1979/seguranca-agentes-ops)** — bancada em português que mede se agentes de IA de operação sabem quando executar, pedir aprovação, recusar ou perguntar, incluindo injeção de instrução via alertas e chamados. Roda com qualquer API compatível com a da OpenAI, inclusive modelos locais no Ollama.
+
 ### O que estou construindo
 
 - **KanbanIA** — gestão de projetos conectada à orquestração de agentes de IA: tarefas, dependências, integração com Git e acompanhamento das execuções dos agentes, com servidor MCP para os agentes de código trabalharem no board.

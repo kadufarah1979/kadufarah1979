@@ -6,7 +6,7 @@ Trabalho com tecnologia desde 1998, entre infraestrutura, desenvolvimento e DevO
 
 ### Open source
 
-- **[seguranca-agentes-ops](https://github.com/kadufarah1979/seguranca-agentes-ops)** — bancada em português que mede se agentes de IA de operação sabem quando executar, pedir aprovação, recusar ou perguntar, incluindo injeção de instrução via alertas e chamados. Roda com qualquer API compatível com a da OpenAI, inclusive modelos locais no Ollama.
+- **[OpsGate](https://github.com/kadufarah1979/opsgate)** — bancada em português que mede se agentes de IA de operação sabem quando executar, pedir aprovação, recusar ou perguntar, incluindo injeção de instrução via alertas e chamados. Roda com qualquer API compatível com a da OpenAI, inclusive modelos locais no Ollama.
 
 ### O que estou construindo
 
